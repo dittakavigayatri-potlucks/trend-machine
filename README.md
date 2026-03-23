@@ -12,8 +12,8 @@ tsmom_strategy/
 │   └── tsmom.py          # Signal construction, vol scaling, backtest engine
 ├── tearsheet/
 │   └── tearsheet.py      # Full performance tearsheet generation
-├── outputs/              # CSVs and plots (auto-generated)
-├── data/                 # Historical price data (plug in live data)
+├── outputs/              # CSVs and plots 
+├── data/                 # Historical price data 
 └── requirements.txt
 ```
 
